@@ -1,0 +1,47 @@
+2020-07-26 16:05:13.830 [JDA RateLimit-Worker 4] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916bc12b17c7dd-DEN]
+2020-07-26 16:05:14.131 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `UPDATE settings SET welcomeChannel = 734484577678000229, rulesChannel = 0 WHERE guildId = 730900148552466505` has been executed resulting in 1 row(s) being updated.
+2020-07-26 16:05:14.278 [JDA RateLimit-Worker 5] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916bc3c8f8c7dd-DEN]
+2020-07-26 16:05:25.741 [JDA RateLimit-Worker 3] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 2 expired buckets
+2020-07-26 16:05:31.504 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.Commands.ConfigCommand - Member: ICon attempted to run the config command with incorrect arguments!
+[Ljava.lang.String;@55aab467
+2020-07-26 16:05:31.682 [JDA RateLimit-Worker 4] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916c30c8adf780-DEN]
+2020-07-26 16:05:31.687 [JDA RateLimit-Worker 2] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916c30c8aff780-DEN]
+2020-07-26 16:05:39.928 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916c647d68f780-DEN]
+2020-07-26 16:05:40.129 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `UPDATE settings SET welcomeChannel = 734484577678000229, rulesChannel = 734487909263998978 WHERE guildId = 730900148552466505` has been executed resulting in 1 row(s) being updated.
+2020-07-26 16:05:40.275 [JDA RateLimit-Worker 3] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916c663a7cf780-DEN]
+2020-07-26 16:05:55.741 [JDA RateLimit-Worker 5] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 2 expired buckets
+2020-07-26 16:06:01.983 [JDA RateLimit-Worker 4] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b916ced7cd1c7a9-DEN]
+2020-07-26 16:06:25.740 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 1 expired buckets
+2020-07-26 16:12:36.475 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got Reconnect request (OP 7). Closing connection now...
+2020-07-26 16:12:36.533 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2020-07-26 16:12:36.534 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Attempting to reconnect in 0s
+2020-07-26 16:12:36.534 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Attempting to reconnect!
+2020-07-26 16:12:36.697 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+2020-07-26 16:12:36.697 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending Resume-packet...
+2020-07-26 16:12:36.699 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got HELLO packet (OP 10). Initializing keep-alive.
+2020-07-26 16:12:36.762 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.api.JDA - Successfully resumed Session!
+2020-07-26 16:13:06.460 [JDA MainWS-ReadThread] ERROR net.dv8tion.jda.api.JDA - The EventManager.handle() call had an uncaught exception
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931) ~[?:1.8.0_252]
+	at xyz.iconc.dev.Bot.CommandManager.HandleEvent(CommandManager.java:33) ~[classes/:?]
+	at xyz.iconc.dev.Bot.EventManager.handle(EventManager.java:49) ~[classes/:?]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handleInternally(EventManagerProxy.java:82) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handle(EventManagerProxy.java:69) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.JDAImpl.handleEvent(JDAImpl.java:166) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.MessageCreateHandler.handleInternally(MessageCreateHandler.java:97) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.SocketHandler.handle(SocketHandler.java:36) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onDispatch(WebSocketClient.java:905) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onEvent(WebSocketClient.java:792) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.handleEvent(WebSocketClient.java:770) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onBinaryMessage(WebSocketClient.java:943) [JDA-4.1.1_146.jar:4.1.1_146]
+	at com.neovisionaries.ws.client.ListenerManager.callOnBinaryMessage(ListenerManager.java:385) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.callOnBinaryMessage(ReadingThread.java:276) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleBinaryFrame(ReadingThread.java:996) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleFrame(ReadingThread.java:755) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.main(ReadingThread.java:108) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.runMain(ReadingThread.java:64) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.WebSocketThread.run(WebSocketThread.java:45) [nv-websocket-client-2.9.jar:?]
+2020-07-26 16:15:14.643 [JDA RateLimit-Worker 2] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b917a6b4abbc7c9-DEN]
+2020-07-26 16:15:25.742 [JDA RateLimit-Worker 4] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 1 expired buckets
+2020-07-26 16:15:40.443 [JDA RateLimit-Worker 3] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b917b0d9f35c7a5-DEN]
+2020-07-26 16:15:55.740 [JDA RateLimit-Worker 5] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 1 expired buckets

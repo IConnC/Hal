@@ -1,0 +1,68 @@
+2020-07-26 16:19:05.566 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b91800fffe3c7b1-DEN]
+2020-07-26 16:19:06.174 [JDA RateLimit-Worker 2] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5b9180136ee9c7b1-DEN]
+2020-07-26 16:19:06.180 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2020-07-26 16:19:06.412 [JDA MainWS-WriteThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+2020-07-26 16:19:06.412 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Connected with gateway intents: 11111011001111
+2020-07-26 16:19:06.412 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending Identify-packet...
+2020-07-26 16:19:06.417 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got HELLO packet (OP 10). Initializing keep-alive.
+2020-07-26 16:19:06.568 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Setting incomplete count to 12
+2020-07-26 16:19:06.622 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 673700411647197232 OwnerId: 385247265876606976
+2020-07-26 16:19:06.623 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 673700411647197232 firing cached events 0
+2020-07-26 16:19:06.633 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724338848070369300 OwnerId: 251819294508318722
+2020-07-26 16:19:06.634 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724338848070369300 firing cached events 0
+2020-07-26 16:19:06.639 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724110835114311701 OwnerId: 718100973930676314
+2020-07-26 16:19:06.642 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724110835114311701 firing cached events 0
+2020-07-26 16:19:06.702 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":null,"afk":false,"status":"online","since":1595801946200}}
+2020-07-26 16:19:06.716 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 721842922105864232 OwnerId: 718100973930676314
+2020-07-26 16:19:06.716 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 721842922105864232 firing cached events 0
+2020-07-26 16:19:06.721 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724408221552476210 OwnerId: 718100973930676314
+2020-07-26 16:19:06.721 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724408221552476210 firing cached events 0
+2020-07-26 16:19:06.723 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":{"name":"Killing all humans","type":0},"afk":false,"status":"online","since":1595801946221}}
+2020-07-26 16:19:06.726 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724409182194892851 OwnerId: 718100973930676314
+2020-07-26 16:19:06.727 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724409182194892851 firing cached events 0
+2020-07-26 16:19:06.730 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724414785462206554 OwnerId: 718100973930676314
+2020-07-26 16:19:06.730 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724414785462206554 firing cached events 0
+2020-07-26 16:19:06.734 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724614023731216396 OwnerId: 251819294508318722
+2020-07-26 16:19:06.736 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724614023731216396 firing cached events 0
+2020-07-26 16:19:06.743 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 725090946454126733 OwnerId: 718100973930676314
+2020-07-26 16:19:06.743 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 725090946454126733 firing cached events 0
+2020-07-26 16:19:06.745 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 727672059559149680 OwnerId: 414945041207918594
+2020-07-26 16:19:06.746 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 727672059559149680 firing cached events 0
+2020-07-26 16:19:06.748 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 730900148552466505 OwnerId: 365602700898861056
+2020-07-26 16:19:06.749 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 730900148552466505 firing cached events 0
+2020-07-26 16:19:06.751 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 732851754256826389 OwnerId: 725403334621528144
+2020-07-26 16:19:06.752 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2020-07-26 16:19:06.756 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (730900148552466505)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.767 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 730900148552466505` has been executed
+2020-07-26 16:19:06.768 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (725090946454126733)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.770 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 725090946454126733` has been executed
+2020-07-26 16:19:06.772 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724414785462206554)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.774 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724414785462206554` has been executed
+2020-07-26 16:19:06.775 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724614023731216396)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.777 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724614023731216396` has been executed
+2020-07-26 16:19:06.779 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (673700411647197232)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.781 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 673700411647197232` has been executed
+2020-07-26 16:19:06.782 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724110835114311701)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.784 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724110835114311701` has been executed
+2020-07-26 16:19:06.786 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724408221552476210)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.788 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724408221552476210` has been executed
+2020-07-26 16:19:06.789 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (732851754256826389)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.791 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 732851754256826389` has been executed
+2020-07-26 16:19:06.793 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724409182194892851)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.795 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724409182194892851` has been executed
+2020-07-26 16:19:06.796 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (727672059559149680)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.798 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 727672059559149680` has been executed
+2020-07-26 16:19:06.799 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (724338848070369300)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.801 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 724338848070369300` has been executed
+2020-07-26 16:19:06.802 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `INSERT OR IGNORE INTO settings (guildId) VALUES (721842922105864232)` has been executed resulting in 0 row(s) being updated.
+2020-07-26 16:19:06.804 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM settings WHERE guildId = 721842922105864232` has been executed
+2020-07-26 16:19:06.804 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.EventManager - ----- **Begin initialization** -----
+2020-07-26 16:19:06.804 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.EventManager - Registering Commands...
+2020-07-26 16:19:06.804 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.CommandManager - Registering Command: config
+2020-07-26 16:19:06.805 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.CommandManager - Registering Command: test
+2020-07-26 16:19:06.805 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.EventManager - Successfully Registered Commands
+2020-07-26 16:19:06.805 [JDA MainWS-ReadThread] INFO  xyz.iconc.dev.Bot.EventManager - ----- **Fully initialized** -----
+2020-07-26 16:19:06.805 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 732851754256826389 firing cached events 0
+2020-07-26 16:19:35.321 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 2 expired buckets
+2020-07-26 16:39:16.056 [main] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM economy WHERE discordId = 1` has been executed
+2020-07-26 16:39:40.534 [main] INFO  xyz.iconc.dev.Tools.SQLiteConnector - Query: `SELECT * FROM economy WHERE discordId = 1` has been executed

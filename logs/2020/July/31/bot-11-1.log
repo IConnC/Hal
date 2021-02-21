@@ -1,0 +1,140 @@
+2020-07-31 11:14:32.139 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5bb8f4c66837c7bd-DEN]
+2020-07-31 11:14:33.607 [JDA RateLimit-Worker 2] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5bb8f4cf4a75c7bd-DEN]
+2020-07-31 11:14:33.628 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2020-07-31 11:14:33.734 [main] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.ClassNotFoundException: org.sqlite.JDBC
+2020-07-31 11:14:33.931 [JDA MainWS-WriteThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+2020-07-31 11:14:33.933 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Connected with gateway intents: 11111011001111
+2020-07-31 11:14:33.934 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending Identify-packet...
+2020-07-31 11:14:33.940 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got HELLO packet (OP 10). Initializing keep-alive.
+2020-07-31 11:14:34.057 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Setting incomplete count to 12
+2020-07-31 11:14:34.216 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":null,"afk":false,"status":"online","since":1596215673712}}
+2020-07-31 11:14:34.228 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 673700411647197232 OwnerId: 385247265876606976
+2020-07-31 11:14:34.229 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":{"name":"Killing all humans","type":0},"afk":false,"status":"online","since":1596215673731}}
+2020-07-31 11:14:34.230 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 673700411647197232 firing cached events 0
+2020-07-31 11:14:34.237 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724110835114311701 OwnerId: 718100973930676314
+2020-07-31 11:14:34.239 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724110835114311701 firing cached events 0
+2020-07-31 11:14:34.247 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 721842922105864232 OwnerId: 718100973930676314
+2020-07-31 11:14:34.308 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 721842922105864232 firing cached events 0
+2020-07-31 11:14:34.313 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724338848070369300 OwnerId: 251819294508318722
+2020-07-31 11:14:34.313 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724338848070369300 firing cached events 0
+2020-07-31 11:14:34.316 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724408221552476210 OwnerId: 718100973930676314
+2020-07-31 11:14:34.317 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724408221552476210 firing cached events 0
+2020-07-31 11:14:34.321 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724409182194892851 OwnerId: 718100973930676314
+2020-07-31 11:14:34.321 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724409182194892851 firing cached events 0
+2020-07-31 11:14:34.324 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724414785462206554 OwnerId: 718100973930676314
+2020-07-31 11:14:34.324 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724414785462206554 firing cached events 0
+2020-07-31 11:14:34.328 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724614023731216396 OwnerId: 251819294508318722
+2020-07-31 11:14:34.329 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724614023731216396 firing cached events 0
+2020-07-31 11:14:34.331 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 727672059559149680 OwnerId: 414945041207918594
+2020-07-31 11:14:34.332 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 727672059559149680 firing cached events 0
+2020-07-31 11:14:34.334 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 725090946454126733 OwnerId: 718100973930676314
+2020-07-31 11:14:34.334 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 725090946454126733 firing cached events 0
+2020-07-31 11:14:34.337 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 730900148552466505 OwnerId: 365602700898861056
+2020-07-31 11:14:34.337 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 730900148552466505 firing cached events 0
+2020-07-31 11:14:34.339 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 732851754256826389 OwnerId: 725403334621528144
+2020-07-31 11:14:34.350 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2020-07-31 11:14:34.352 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:14:34.352 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:14:34.353 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.NullPointerException
+2020-07-31 11:14:34.353 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:14:34.354 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:14:34.354 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.NullPointerException
+2020-07-31 11:14:34.354 [JDA MainWS-ReadThread] ERROR net.dv8tion.jda.api.JDA - The EventManager.handle() call had an uncaught exception
+java.lang.NullPointerException: null
+	at xyz.iconc.dev.Bot.Bot.AddGuildConfig(Bot.java:65) ~[classes/:?]
+	at xyz.iconc.dev.Bot.EventManager.handle(EventManager.java:66) ~[classes/:?]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handleInternally(EventManagerProxy.java:82) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handle(EventManagerProxy.java:69) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.JDAImpl.handleEvent(JDAImpl.java:166) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.ready(WebSocketClient.java:198) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupController.ready(GuildSetupController.java:103) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.completeSetup(GuildSetupNode.java:383) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.handleMemberChunk(GuildSetupNode.java:266) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.ensureMembers(GuildSetupNode.java:402) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.handleCreate(GuildSetupNode.java:226) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupController.onCreate(GuildSetupController.java:160) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildCreateHandler.handleInternally(GuildCreateHandler.java:44) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.SocketHandler.handle(SocketHandler.java:36) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onDispatch(WebSocketClient.java:905) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onEvent(WebSocketClient.java:792) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.handleEvent(WebSocketClient.java:770) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onBinaryMessage(WebSocketClient.java:943) [JDA-4.1.1_146.jar:4.1.1_146]
+	at com.neovisionaries.ws.client.ListenerManager.callOnBinaryMessage(ListenerManager.java:385) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.callOnBinaryMessage(ReadingThread.java:276) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleBinaryFrame(ReadingThread.java:996) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleFrame(ReadingThread.java:755) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.main(ReadingThread.java:108) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.runMain(ReadingThread.java:64) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.WebSocketThread.run(WebSocketThread.java:45) [nv-websocket-client-2.9.jar:?]
+2020-07-31 11:14:34.360 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 732851754256826389 firing cached events 0
+2020-07-31 11:15:01.608 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 2 expired buckets
+2020-07-31 11:16:44.748 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5bb8f8035c0df784-DEN]
+2020-07-31 11:16:45.322 [JDA RateLimit-Worker 2] DEBUG net.dv8tion.jda.internal.requests.Requester - Received response with following cf-rays: [5bb8f80679dcf784-DEN]
+2020-07-31 11:16:45.326 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2020-07-31 11:16:45.365 [main] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.ClassNotFoundException: org.sqlite.JDBC
+2020-07-31 11:16:45.526 [JDA MainWS-WriteThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+2020-07-31 11:16:45.526 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Connected with gateway intents: 11111011001111
+2020-07-31 11:16:45.527 [JDA MainWS-WriteThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending Identify-packet...
+2020-07-31 11:16:45.534 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Got HELLO packet (OP 10). Initializing keep-alive.
+2020-07-31 11:16:45.655 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Setting incomplete count to 12
+2020-07-31 11:16:45.705 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 673700411647197232 OwnerId: 385247265876606976
+2020-07-31 11:16:45.706 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 673700411647197232 firing cached events 0
+2020-07-31 11:16:45.714 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 721842922105864232 OwnerId: 718100973930676314
+2020-07-31 11:16:45.715 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 721842922105864232 firing cached events 0
+2020-07-31 11:16:45.720 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724110835114311701 OwnerId: 718100973930676314
+2020-07-31 11:16:45.721 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724110835114311701 firing cached events 0
+2020-07-31 11:16:45.726 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724338848070369300 OwnerId: 251819294508318722
+2020-07-31 11:16:45.726 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724338848070369300 firing cached events 0
+2020-07-31 11:16:45.728 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724408221552476210 OwnerId: 718100973930676314
+2020-07-31 11:16:45.728 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724408221552476210 firing cached events 0
+2020-07-31 11:16:45.732 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724409182194892851 OwnerId: 718100973930676314
+2020-07-31 11:16:45.732 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724409182194892851 firing cached events 0
+2020-07-31 11:16:45.734 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724414785462206554 OwnerId: 718100973930676314
+2020-07-31 11:16:45.734 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724414785462206554 firing cached events 0
+2020-07-31 11:16:45.737 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 724614023731216396 OwnerId: 251819294508318722
+2020-07-31 11:16:45.738 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 724614023731216396 firing cached events 0
+2020-07-31 11:16:45.741 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 725090946454126733 OwnerId: 718100973930676314
+2020-07-31 11:16:45.741 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 725090946454126733 firing cached events 0
+2020-07-31 11:16:45.743 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 727672059559149680 OwnerId: 414945041207918594
+2020-07-31 11:16:45.743 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 727672059559149680 firing cached events 0
+2020-07-31 11:16:45.746 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 730900148552466505 OwnerId: 365602700898861056
+2020-07-31 11:16:45.746 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 730900148552466505 firing cached events 0
+2020-07-31 11:16:45.749 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.entities.EntityBuilder - Finished setup for guild with a null owner. GuildId: 732851754256826389 OwnerId: 725403334621528144
+2020-07-31 11:16:45.750 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2020-07-31 11:16:45.752 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:16:45.752 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:16:45.753 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.NullPointerException
+2020-07-31 11:16:45.753 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:16:45.754 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.sql.SQLException: No suitable driver found for jdbc:sqlite:guilds.db
+2020-07-31 11:16:45.754 [JDA MainWS-ReadThread] ERROR xyz.iconc.dev.Tools.SQLiteConnector - java.lang.NullPointerException
+2020-07-31 11:16:45.754 [JDA MainWS-ReadThread] ERROR net.dv8tion.jda.api.JDA - The EventManager.handle() call had an uncaught exception
+java.lang.NullPointerException: null
+	at xyz.iconc.dev.Bot.Bot.AddGuildConfig(Bot.java:65) ~[classes/:?]
+	at xyz.iconc.dev.Bot.EventManager.handle(EventManager.java:66) ~[classes/:?]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handleInternally(EventManagerProxy.java:82) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handle(EventManagerProxy.java:69) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.JDAImpl.handleEvent(JDAImpl.java:166) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.ready(WebSocketClient.java:198) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupController.ready(GuildSetupController.java:103) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.completeSetup(GuildSetupNode.java:383) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.handleMemberChunk(GuildSetupNode.java:266) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.ensureMembers(GuildSetupNode.java:402) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupNode.handleCreate(GuildSetupNode.java:226) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildSetupController.onCreate(GuildSetupController.java:160) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.GuildCreateHandler.handleInternally(GuildCreateHandler.java:44) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.handle.SocketHandler.handle(SocketHandler.java:36) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onDispatch(WebSocketClient.java:905) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onEvent(WebSocketClient.java:792) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.handleEvent(WebSocketClient.java:770) [JDA-4.1.1_146.jar:4.1.1_146]
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onBinaryMessage(WebSocketClient.java:943) [JDA-4.1.1_146.jar:4.1.1_146]
+	at com.neovisionaries.ws.client.ListenerManager.callOnBinaryMessage(ListenerManager.java:385) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.callOnBinaryMessage(ReadingThread.java:276) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleBinaryFrame(ReadingThread.java:996) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.handleFrame(ReadingThread.java:755) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.main(ReadingThread.java:108) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.ReadingThread.runMain(ReadingThread.java:64) [nv-websocket-client-2.9.jar:?]
+	at com.neovisionaries.ws.client.WebSocketThread.run(WebSocketThread.java:45) [nv-websocket-client-2.9.jar:?]
+2020-07-31 11:16:45.758 [JDA MainWS-ReadThread] DEBUG net.dv8tion.jda.internal.handle.GuildSetupController - Finished setup for guild 732851754256826389 firing cached events 0
+2020-07-31 11:16:45.844 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":null,"afk":false,"status":"online","since":1596215805342}}
+2020-07-31 11:16:45.855 [JDA Gateway-Worker 1] DEBUG net.dv8tion.jda.internal.requests.WebSocketClient - Sending normal message {"op":3,"d":{"game":{"name":"Killing all humans","type":0},"afk":false,"status":"online","since":1596215805362}}
+2020-07-31 11:17:14.548 [JDA RateLimit-Worker 1] DEBUG net.dv8tion.jda.internal.requests.RateLimiter - Removed 2 expired buckets
